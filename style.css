@@ -27,14 +27,14 @@ body {
 h1 {
     color: white;
     font-family: "Source Sans Pro", sans-serif;
-    font-size: 5em;
+    font-size: 7em;
     letter-spacing: -0.04em;
 }
 
 p {
     color: white;
     font-family: "Comfortaa", cursive;
-    font-size: 2em;
+    font-size: 1.75em;
     margin: 15px 0;
     font-weight: bold;
 }
@@ -51,5 +51,5 @@ p {
 
 .icon:hover {
     cursor: pointer;
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(14, 245, 34);
 }
